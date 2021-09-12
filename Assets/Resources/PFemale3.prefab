@@ -623,12 +623,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6abf575d13a2d4d8d87a5e0d2e3343c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mouseSensitivity: 0
-  sprintSpeed: 0
-  walkSpeed: 0
-  jumpForce: 0
-  smoothTime: 0
-  cameraHolder: {fileID: 0}
+  mouseSensitivity: 1
+  sprintSpeed: 18
+  walkSpeed: 9
+  jumpForce: 300
+  smoothTime: 0.1
+  cameraHolder: {fileID: 9220126919272434116}
 --- !u!114 &942120018440160478
 MonoBehaviour:
   m_ObjectHideFlags: 0
